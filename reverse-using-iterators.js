@@ -1,6 +1,5 @@
 // The intent of this file is to reverse the string using iterators (for, foreach)
 
-
 const reverse = (str) => {
   let j = str.length - 1;
   let ans = '';
